@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="GitHub API Test Suite">
+    <test name="GitHub API Tests">
+        <classes>
+            <class name="GitHub_API.CURD_TestCases"/>
+        </classes>
+    </test>
+</suite>
