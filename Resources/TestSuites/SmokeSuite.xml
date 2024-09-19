@@ -2,7 +2,7 @@
 <suite name="GitHub API Test Suite">
     <test name="GitHub API Tests">
         <classes>
-            <class name="GitHub_API.CURD_TestCases"/>
+            <class name="GitHub_API.CURD_TestCase"/>
         </classes>
     </test>
 </suite>
